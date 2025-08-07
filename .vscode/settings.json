@@ -3,5 +3,7 @@
     "workbench.preferredDarkColorTheme": "Solarized Dark",
     "workbench.preferredHighContrastColorTheme": "Default High Contrast",
     "workbench.iconTheme": "vs-seti",
-    "workbench.sideBar.location": "left"
+    "workbench.sideBar.location": "left",
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python-envs.pythonProjects": []
 }
